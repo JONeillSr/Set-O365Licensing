@@ -1,8 +1,3 @@
-<#
-Dkawula_test@moldedfiberglass.com
-DKawula_Admin@moldedfiberglass.com
-#>
-
 # Provide access to the common parameters
 [CmdletBinding()]
 
